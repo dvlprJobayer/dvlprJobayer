@@ -9,7 +9,21 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/dvlprJobayer/dvlprJobayer/blob/main/img/Linkedin.png">](https://www.linkedin.com/in/dvlprjobayer/)[<img height="75" src="https://github.com/dvlprJobayer/dvlprJobayer/blob/main/img/Facebook.png">](https://www.facebook.com/dvlprJobayer)[<img height="75" src="https://github.com/dvlprJobayer/dvlprJobayer/blob/main/img/Twitter.png"> </p>](https://twitter.com/dvlprJobayer)
+<a href="https://github.com/dvlprJobayer" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/dvlprJobayer" target="_blank">
+<img src=https://img.shields.io/badge/-twitter-%231d9bf0.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/dvlprJobayer" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<!-- <a href="#" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> -->
+<a href="https://www.linkedin.com/in/dvlprjobayer/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 <br />
 
