@@ -4,9 +4,9 @@
 
 ### I am a full-stack developer. Currently teaching Programming on Youtube. I like to write code and especially love to bug fixes in coding. That's why I love to work on new projects. I actively learn new technology and always keep myself up to date.
 
-### My Contributions
+## My Contributions
 
-Till now I have some [contribution](https://github.com/JanDeDobbeleer/oh-my-posh/pull/3239) But I don't have any major contribution to mention here. I am trying to do so and also trying to get involved in the community to learn from them, help them, and share my knowledge with them.
+### Till now I have some [contribution](https://github.com/JanDeDobbeleer/oh-my-posh/pull/3239) But I don't have any major contribution to mention here. I am trying to do so and also trying to get involved in the community to learn from them, help them, and share my knowledge with them.
 
 ## :mailbox: Reach me out
 
