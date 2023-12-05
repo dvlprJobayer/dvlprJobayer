@@ -2,7 +2,7 @@
 
 ## About Me
 
-### I am a full-stack developer. Currently teaching Programming on Youtube. I like to write code and especially love to bug fixes in coding. That's why I love to work on new projects. I actively learn new technology and always keep myself up to date.
+### I am a full-stack developer. Currently enhancing my knowledge of Data Structures and Algorithms. I like to write code and especially love to do bug fixes in coding. That's why I love to work on new projects. I actively learn new technology and always keep myself up to date.
 
 ## My Contributions
 
@@ -15,17 +15,17 @@
 <a href="https://github.com/dvlprJobayer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.linkedin.com/in/dvlprjobayer/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/dvlprJobayer" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/dvlprJobayer" target="_blank">
+<!-- <a href="https://www.facebook.com/dvlprJobayer" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://www.youtube.com/@programmingmic" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/dvlprjobayer/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <br />
@@ -33,9 +33,9 @@
 ## :eyes: Current overview
 
 - ### 🔭 I’m currently working on ...
-- ### 🌱 I’m Currently teaching Programming on Youtube
-<!-- - ### 👯 I’m looking to collaborate on open source projects.
-- ### 🤔 I’m looking for help with fixing my coding addiction. -->
+- ### 🌱 I’m Currently enhancing my knowledge of Data Structures and Algorithms.
+- ### 👯 I’m looking to collaborate on open-source projects.
+- ### 🤔 I’m looking for help with fixing my coding addiction.
 
 ## :computer: Technologies that I know
 
