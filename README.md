@@ -2,7 +2,7 @@
 
 ## About Me
 
-### I am a full-stack developer. Currently enhancing my knowledge of Data Structures and Algorithms. I like to write code and especially love to do bug fixes in coding. That's why I love to work on new projects. I actively learn new technology and always keep myself up to date.
+### I am a full-stack developer. Currently, I am updating my knowledge about backend technologies like API and databases. I like to write code and especially love to do bug fixes in coding. That's why I love to work on new projects. I actively learn new technology and always keep myself up to date.
 
 ## My Contributions
 
@@ -33,7 +33,7 @@
 ## :eyes: Current overview
 
 - ### 🔭 I’m currently working on ...
-- ### 🌱 I’m Currently enhancing my knowledge of Data Structures and Algorithms.
+- ### 🌱 I’m Currently updating my knowledge of backend technologies.
 - ### 👯 I’m looking to collaborate on open-source projects.
 - ### 🤔 I’m looking for help with fixing my coding addiction.
 
